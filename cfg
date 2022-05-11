@@ -1,0 +1,7 @@
+strict graph {
+mainstart;
+block41328;
+block41327;
+mainstart -- block41327;
+mainstart -- block41328;
+}
