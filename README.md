@@ -1,6 +1,12 @@
-## A4: Compiler for *L<sub>Fun</sub>* Language
+##  Compiler for *L<sub>Fun</sub>* Language
 
-1. Implement all passes required to support functions by exending *L<sub>Tup</sub>* to *L<sub>Fun</sub>*. 
+## Language:
+Racket
+
+## Functionality:
+
+1. Implement all passes required to support functions by exending *L<sub>Tup</sub>* to *L<sub>Fun</sub>*.
+2. Deals with the semantic analysis, code generation and optimization phases in particular. 
 
 <br><br>
 
