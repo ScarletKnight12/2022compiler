@@ -4,6 +4,9 @@
 
 <br><br>
 
+![Screenshot (372)](https://user-images.githubusercontent.com/31008590/202528738-0cb28016-0366-4625-a535-bbb4e3730fbb.png)
+
+
 ## A3: Dataflow analysis, Garbage collection and Compiler for *L<sub>while</sub>*, *L<sub>Tup</sub>* Languages
 
 1. Implement all the passes required to support loops by extending *L<sub>if</sub>*
