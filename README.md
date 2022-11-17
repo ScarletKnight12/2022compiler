@@ -1,4 +1,5 @@
-##  Compiler for *L<sub>Fun</sub>* Language
+#  Compiler
+Created a Nanophase compiler using racket implementing the various phases of compilers.
 
 ## Language:
 Racket
